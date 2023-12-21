@@ -9,6 +9,29 @@ body{
 	background-color: #ffffff;
 	text-align: center;
 }
-.book1{
-	
+h2{
+	text-align: center;
+}
+ h4{
+	text-align: left;
+	 margin-bottom: 0px;
+}
+p{
+    text-align: left;
+	margin-top: 0px;
+}
+img{
+	height: 120px;
+}
+.price1{
+	background-color: lightgreen;
+	 margin-bottom: 30px;
+}
+.price2{
+	background-color: lightgreen;
+	 margin-bottom: 30px;
+}
+.price3{
+	background-color: lightgreen;
+	 margin-bottom: 30px;
 }
