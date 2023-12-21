@@ -36,6 +36,8 @@ img{
 }
 .price{
 	background-color: #2ecc71;
-	 margin-bottom: 30px;
-	 
+	 margin-bottom: 30px; 
+}
+.book{
+	background-color: rgb(255, 255, 255);
 }
